@@ -16,8 +16,8 @@ console.log(getRandomLower())
 // https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript
 function getRandFromString(lengthInput) {
     let result = ''
-    let stringInput1 = 'abcdefghijklmnopqrstuvwxyz1234567898888899999'
-    let stringInput2 = 'abcdefghijklmnopqrstuvwxyz1234567898888899999'
+    let stringInput1 = 'abcdefghijkmnpqrstuvwxyz1235678908888899999abcdefghijkmnpqrstuvwxyz123567895555500ee'
+    let stringInput2 = 'abcdefghijkmnpqrstuvwxyz1235678908888899999abcdefghijkmnpqrstuvwxyz123567895555500ee'
     let stringInput = stringInput1.concat(stringInput2)
     let strLen = stringInput.length
 
@@ -28,4 +28,14 @@ function getRandFromString(lengthInput) {
 
 }
 
-console.log(getRandFromString(15))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
+console.log(getRandFromString(21))
