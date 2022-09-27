@@ -39,3 +39,13 @@ console.log(getRandFromString(21))
 console.log(getRandFromString(21))
 console.log(getRandFromString(21))
 console.log(getRandFromString(21))
+
+
+
+
+let stringInput1 = 'aaa'
+let stringInput2 = 'bbb'
+let stringInput = stringInput1.concat(stringInput2)
+console.log(stringInput)
+
+
