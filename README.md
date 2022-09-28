@@ -69,11 +69,15 @@ Contradict love hope eternal-return virtues battle faith zarathustra right.
 
 ### bananaCoding:
 
-https://www.youtube.com/watch?v=p88rNckccmg
+1. https://www.youtube.com/watch?v=p88rNckccmg
 
-https://www.youtube.com/watch?v=EutvXK3eh0I
 
-https://www.youtube.com/watch?v=AqamzLX9MCQ
+1. https://www.youtube.com/watch?v=EutvXK3eh0I
+
+
+1. https://www.youtube.com/watch?v=AqamzLX9MCQ
+
+
 
 https://www.youtube.com/watch?v=-wSn49DV9qU
 
@@ -138,3 +142,14 @@ https://www.youtube.com/watch?v=3GqUM4mEYKA
 ### franksLaboratory
 
 https://www.youtube.com/watch?v=Yvz_axxWG4Y
+
+
+
+
+
+
+
+temp
+- https://www.youtube.com/watch?v=gGnGf3X4KAU
+
+- https://www.youtube.com/watch?v=lA0VE5TTmi0
